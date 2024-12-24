@@ -3,7 +3,7 @@ entries:
   dagster:
   - apiVersion: v2
     appVersion: dev
-    created: "2024-12-24T14:34:07.105197+01:00"
+    created: "2024-12-24T14:54:35.104809+01:00"
     dependencies:
     - condition: dagster-user-deployments.enableSubchart
       name: dagster-user-deployments
@@ -40,6 +40,6 @@ entries:
     - https://github.com/dagster-io/dagster/tree/master/helm/dagster
     type: application
     urls:
-    - dagster-1.9.6.tgz
+    - https://zaphiro-technologies.github.io/dagster/dagster-1.9.6.tgz
     version: 1.9.6
-generated: "2024-12-24T14:34:07.097449+01:00"
+generated: "2024-12-24T14:54:35.095036+01:00"
